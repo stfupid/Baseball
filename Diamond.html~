@@ -2,11 +2,17 @@
 <html>
 	<head>
 		<title>Diamond</title>
-		<link rel="stylesheet" href="css/styles.css"/>
+		<link rel="stylesheet" type="text/css" href="css/styles.css"/>
 	</head>
 	<body>
 		<div class="picture">
 			<img src="pics/Diamond2.jpg"/>
-		</a>
+		</div>
+		<div class="more" id="LF">
+			<a href="#">
+				<img src="button.jpg"/>
+			</a>
+			<span>Left Field</span>
+		</div>
 	</body>
 </html>
