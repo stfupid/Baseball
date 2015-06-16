@@ -10,9 +10,14 @@
 		</div>
 		<div class="more" id="LF">
 			<a href="#">
-				<img src="button.jpg"/>
+				<img src="pics/button2.jpg"/>
 			</a>
 			<span>Left Field</span>
+		</div>
+
+		<!-- Info Boxes -->
+		<div id="infobox">
+
 		</div>
 	</body>
 </html>
