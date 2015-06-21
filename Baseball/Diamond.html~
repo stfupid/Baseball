@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Diamond</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css"/>
+	</head>
+	<body>
+		<div class="picture">
+			<img src="pics/Diamond2.jpg"/>
+		</div>
+		<div class="more" id="LF">
+			<a href="#">
+				<img src="pics/button2.jpg"/>
+			</a>
+			<span>Left Field</span>
+		</div>
+
+		<!-- Info Boxes -->
+		<div id="infobox">
+
+		</div>
+	</body>
+</html>
